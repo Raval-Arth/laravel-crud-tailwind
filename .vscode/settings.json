@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    // "[Blade]": {
+    //     "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    // },
+    "[blade]": {
+        "editor.defaultFormatter": "amirmarmul.laravel-blade-vscode",
+        "editor.autoClosingBrackets": "always"
+    },
+    "files.associations": {
+    "*.blade.php": "blade",
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "amirmarmul.laravel-blade-vscode"
+}
